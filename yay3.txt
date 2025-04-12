@@ -1,0 +1,235 @@
+--- Page 1 ---
+MEDI-SURE HOSPITAL
+
+INSURANCE BILL
+
+Name : VAISHNAVI RAI
+Address: JAYNAGAR, PATNA
+Phone No: 8989796965
+
+Insurance number: 789
+Company name: MARS Health
+Claim Number: 867
+
+Date: 18-Jul-2025
+
+--- Page 1 ---
+MEDI-SURE HOSPITAL
+
+EMPLOYEE BILL
+
+Name: Nisha Verma
+Address: 21 Lotus Colony, Pune
+Phone No: 9933445566
+
+Employee ID: MEDO057
+Post: Admin Assistant
+Date Of Salary Received: 08-Apr-2025
+Salary - Tax: 45,000
+Hours Worked: 150
+
+--- Page 1 ---
+MEDI-SURE HOSPITAL
+
+PHARMACEUTICAL AND EQUIPMENTS BILL
+
+Name: Karthik Rao
+Address: 3rd Cross, Indiranagar, Hyderabad
+Phone No: 9000001122
+
+Invoice No: INVOO5
+Vendor Name: MedPlus
+Vendor Address: Ameerpet, Hyderabad
+Date: 13-Nov-2025
+Items: Glucometer Strips, Multivitamins
+Quantity: 8
+Cost: 2170
+
+--- Page 1 ---
+MEDI-SURE HOSPITAL
+
+INSURANCE BILL
+
+Name: RAHUL VERMA
+Address: 45, Lake View Road, Kolkata
+Phone No: 9832154790
+
+Insurance number: 2217
+Company name: Reliance General
+Claim Number: 9876
+
+Date: 27-Mar-2025
+
+--- Page 1 ---
+MEDI-SURE HOSPITAL
+
+PHARMACEUTICAL AND EQUIPMENTS BILL
+
+Name: Priya Shah
+Address: 22, Lake View, Ahmedabad
+Phone No: 9811122233
+
+Invoice No: INVOO4
+Vendor Name: Zydus Hospital
+Vendor Address: Thaltej, Ahmedabad
+Date: 11-Apr-2025
+Items: Physiotherapy Session, Bandage
+Quantity: 4
+Cost: 2480
+
+--- Page 1 ---
+MEDI-SURE HOSPITAL
+
+EMPLOYEE BILL
+
+Name: Imran Khan
+Address: 79 Old Fort Road, Hyderabad
+Phone No: 9877665544
+
+Employee ID: MEDO044
+Post: Pharmacist
+Date Of Salary Received: 04-Apr-2025
+Salary - Tax: 265,000
+Hours Worked: 162
+
+--- Page 1 ---
+MEDI-SURE HOSPITAL
+
+INSURANCE BILL
+
+Name: SARA DESAI
+Address: 21, Carter Road, Bandra West, Mumbai
+Phone No: 9876543210
+
+Insurance number: 1102
+Company name: Max Bupa
+Claim Number: 3421
+
+Date: 03-Apr-2025
+
+--- Page 1 ---
+MEDI-SURE HOSPITAL
+
+PHARMACEUTICAL AND EQUIPMENTS BILL
+
+Name: Sneha Iyer
+Address: Flat 9B, Shivaji Nagar, Pune
+Phone No: 9123456789
+
+Invoice No: INVOO3
+Vendor Name: Ruby Hall Clinic
+Vendor Address: Sassoon Road, Pune
+Date: 1-Dec-2025
+Items: Medicine (Antibiotic)
+Quantity: 6
+Cost: 2320
+
+--- Page 1 ---
+MEDI-SURE HOSPITAL
+
+EMPLOYEE BILL
+
+Name: Pooja Nair
+Address: 10 Rose Street, Bangalore
+Phone No: 9900112233
+
+Employee ID: MEDO32
+Post: Staff Nurse
+Date Of Salary Received: 06-Apr-2025
+Salary - Tax: 72,500
+Hours Worked: 180
+
+--- Page 1 ---
+MEDI-SURE HOSPITAL
+
+EMPLOYEE BILL
+
+Name: Pooja Nair
+Address: 10 Rose Street, Bangalore
+Phone No: 9900112233
+
+Employee ID: MEDO32
+Post: Staff Nurse
+Date Of Salary Received: 06-Apr-2025
+Salary - Tax: 72,500
+Hours Worked: 180
+
+--- Page 1 ---
+MEDI-SURE HOSPITAL
+
+INSURANCE BILL
+
+Name: KAVYA VED
+Address: Harlur Bangalore
+Phone No: 8104565675
+
+Insurance number: 666
+Company name: Moon Health
+Claim Number: 8567
+
+Date: 16-Mar-2025
+
+--- Page 1 ---
+MEDI-SURE HOSPITAL
+
+EMPLOYEE BILL
+
+Name: Rajiv Mehta
+Address: 45 Green Park, Delhi
+Phone No: 9812345678
+
+Employee ID: MEDO18
+Post: Lab Technician
+Date Of Salary Received: 07-Apr-2025
+Salary - Tax: 58,000
+Hours Worked: 174
+
+--- Page 1 ---
+MEDI-SURE HOSPITAL
+
+PHARMACEUTICAL AND EQUIPMENTS BILL
+
+Name: Nakul Mehta
+Address: Marine drive, Mumbai
+Phone No: 9123456789
+
+Invoice No: INVOO2
+Vendor Name: Net Meds
+Vendor Address: Colaba, Mumbai
+Date: 16-May-2025
+Items: ORS
+Quantity: 6
+Cost: 2180
+
+--- Page 1 ---
+MEDI-SURE HOSPITAL
+
+INSURANCE BILL
+
+Name: RIYA RANJANA
+Address: Marine drive, Mumbai
+Phone No: 9867347896
+
+Insurance number: 896
+Company name: Star Health
+Claim Number: 1567
+
+Date: 16-May-2025
+
+--- Page 1 ---
+MEDI-SURE HOSPITAL
+
+PHARMACEUTICAL AND EQUIPMENTS BILL
+
+Name: Rahul Mehta
+Address: 12, Green Park, New Delhi
+Phone No: 9876543210
+
+Invoice No: INVOO1
+Vendor Name: Apollo Pharmacy
+Vendor Address: Sector 21, Noida
+Date: 10-Apr-2025
+Items: Medicine
+Quantity: 3
+Cost : 2150
+
